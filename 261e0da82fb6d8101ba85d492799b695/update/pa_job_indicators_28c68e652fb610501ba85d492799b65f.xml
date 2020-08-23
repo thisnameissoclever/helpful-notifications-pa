@@ -3,23 +3,23 @@
         <active>true</active>
         <collect>1</collect>
         <collect_indicator>true</collect_indicator>
-        <display>Email Feedback Daily Data Collection - Average email feedback sentiment</display>
-        <indicator display_value="Average email feedback sentiment">b78e0de82fb6d8101ba85d492799b694</indicator>
-        <job display_value="Email Feedback Daily Data Collection">0f7495e02ff6d8101ba85d492799b6ab</job>
+        <display>[Email Feedback] Historic Data Collection - New Notification Sentiment</display>
+        <indicator display_value="New Notification Sentiment">1b1ae1ec2f3ad8101ba85d492799b6b4</indicator>
+        <job display_value="[Email Feedback] Historic Data Collection">a1460ee12fb610501ba85d492799b634</job>
         <sys_class_name>pa_job_indicators</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-19 20:29:38</sys_created_on>
+        <sys_created_by>rdfed</sys_created_by>
+        <sys_created_on>2020-08-23 01:41:56</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e482656c2ff6d8101ba85d492799b6fc</sys_id>
+        <sys_id>28c68e652fb610501ba85d492799b65f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Average email feedback sentiment.Email Feedback Daily Data Collection</sys_name>
+        <sys_name>New Notification Sentiment.[Email Feedback] Historic Data Collection</sys_name>
         <sys_overrides/>
         <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
         <sys_policy/>
         <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
-        <sys_update_name>pa_job_indicators_e482656c2ff6d8101ba85d492799b6fc</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-19 20:29:38</sys_updated_on>
+        <sys_update_name>pa_job_indicators_28c68e652fb610501ba85d492799b65f</sys_update_name>
+        <sys_updated_by>rdfed</sys_updated_by>
+        <sys_updated_on>2020-08-23 01:41:56</sys_updated_on>
     </pa_job_indicators>
 </record_update>
