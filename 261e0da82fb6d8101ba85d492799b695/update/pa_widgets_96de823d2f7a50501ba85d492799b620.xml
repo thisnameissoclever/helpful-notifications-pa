@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widgets">
     <pa_widgets action="INSERT_OR_UPDATE">
-        <aggregate/>
+        <aggregate display_value="7d running AVG">9ef05051d7001100ba986f14ce610372</aggregate>
         <alignment>left</alignment>
-        <breakdown/>
+        <breakdown display_value="Notifications">238c79692f7610501ba85d492799b6da</breakdown>
         <breakdown_level2/>
         <breakdown_page_size>5</breakdown_page_size>
         <chart_color/>
         <color_scheme/>
         <coloring_method>score</coloring_method>
         <column_bulletchart>false</column_bulletchart>
-        <column_change>false</column_change>
+        <column_change>true</column_change>
         <column_change_perc>false</column_change_perc>
         <column_current>true</column_current>
         <column_gap>false</column_gap>
@@ -30,7 +30,7 @@
         <date_to>00000000</date_to>
         <default_indicator/>
         <description/>
-        <element/>
+        <element>unmatched</element>
         <element_level2/>
         <elements_filter/>
         <field/>
@@ -50,7 +50,7 @@
         <include_target>false</include_target>
         <include_thresholds>false</include_thresholds>
         <include_trend>false</include_trend>
-        <indicator display_value="Net Daily Notification Sentiment">a5004e6d2f7610501ba85d492799b60a</indicator>
+        <indicator display_value="Avg Daily Notification Sentiment">cbd58a252fb610501ba85d492799b696</indicator>
         <is_compare_chart>false</is_compare_chart>
         <lastscore_compare>previous_score</lastscore_compare>
         <lastscore_periods_back/>
@@ -59,16 +59,16 @@
         <manual_elements>false</manual_elements>
         <max_color/>
         <multiple_elements_view/>
-        <name>Net Daily Sentiment</name>
+        <name>Top 5 Worst Performing Notifications</name>
         <number_of_records>5</number_of_records>
         <percentages>no_percentages</percentages>
-        <period>1m</period>
+        <period>7d</period>
         <pivot_breakdown/>
         <pivot_elements_filter/>
         <related_dashboards>0</related_dashboards>
         <score_font_size>responsive</score_font_size>
         <scorecard_options>all</scorecard_options>
-        <show_bar>false</show_bar>
+        <show_bar>true</show_bar>
         <show_breakdown_selector>true</show_breakdown_selector>
         <show_change>true</show_change>
         <show_change_perc>true</show_change_perc>
@@ -81,34 +81,34 @@
         <show_on_click_link_label>true</show_on_click_link_label>
         <show_range_selector>false</show_range_selector>
         <show_target>false</show_target>
-        <show_top_x/>
+        <show_top_x>5</show_top_x>
         <show_total>false</show_total>
         <show_trend>true</show_trend>
         <show_visualization_selector>true</show_visualization_selector>
         <sort_direction>asc</sort_direction>
-        <sort_on>default</sort_on>
+        <sort_on>value</sort_on>
         <subtitle/>
         <sys_class_name>pa_widgets</sys_class_name>
         <sys_created_by>rdfed</sys_created_by>
-        <sys_created_on>2020-08-23 01:51:07</sys_created_on>
+        <sys_created_on>2020-08-23 20:56:25</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>97c84a292fb610501ba85d492799b6eb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Net Daily Sentiment</sys_name>
+        <sys_id>96de823d2f7a50501ba85d492799b620</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Top 5 Worst Performing Notifications</sys_name>
         <sys_overrides/>
         <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
         <sys_policy/>
         <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
-        <sys_update_name>pa_widgets_97c84a292fb610501ba85d492799b6eb</sys_update_name>
+        <sys_update_name>pa_widgets_96de823d2f7a50501ba85d492799b620</sys_update_name>
         <sys_updated_by>rdfed</sys_updated_by>
-        <sys_updated_on>2020-08-23 17:47:47</sys_updated_on>
+        <sys_updated_on>2020-08-23 21:02:55</sys_updated_on>
         <tag/>
         <template>template1</template>
         <treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color>
         <treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color>
-        <type>time</type>
-        <visualization>column</visualization>
+        <type>breakdown</type>
+        <visualization>scorecard</visualization>
         <words_in_trendline>5</words_in_trendline>
         <yaxis2_from/>
         <yaxis2_title/>
@@ -117,5 +117,5 @@
         <yaxis_title/>
         <yaxis_to/>
     </pa_widgets>
-    <sys_translated_text action="delete_multiple" query="documentkey=97c84a292fb610501ba85d492799b6eb"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=96de823d2f7a50501ba85d492799b620"/>
 </record_update>

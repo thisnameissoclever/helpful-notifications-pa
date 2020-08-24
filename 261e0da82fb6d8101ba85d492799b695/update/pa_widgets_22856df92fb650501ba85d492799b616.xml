@@ -2,7 +2,7 @@
     <pa_widgets action="INSERT_OR_UPDATE">
         <aggregate/>
         <alignment>left</alignment>
-        <breakdown/>
+        <breakdown display_value="Notification Feedback Type">51c4a9b92fb650501ba85d492799b6f6</breakdown>
         <breakdown_level2/>
         <breakdown_page_size>5</breakdown_page_size>
         <chart_color/>
@@ -50,7 +50,7 @@
         <include_target>false</include_target>
         <include_thresholds>false</include_thresholds>
         <include_trend>false</include_trend>
-        <indicator display_value="Net Daily Notification Sentiment">a5004e6d2f7610501ba85d492799b60a</indicator>
+        <indicator display_value="New Notification Sentiment">1b1ae1ec2f3ad8101ba85d492799b6b4</indicator>
         <is_compare_chart>false</is_compare_chart>
         <lastscore_compare>previous_score</lastscore_compare>
         <lastscore_periods_back/>
@@ -59,7 +59,7 @@
         <manual_elements>false</manual_elements>
         <max_color/>
         <multiple_elements_view/>
-        <name>Net Daily Sentiment</name>
+        <name>Sentiment by Feedback Type</name>
         <number_of_records>5</number_of_records>
         <percentages>no_percentages</percentages>
         <period>1m</period>
@@ -81,34 +81,34 @@
         <show_on_click_link_label>true</show_on_click_link_label>
         <show_range_selector>false</show_range_selector>
         <show_target>false</show_target>
-        <show_top_x/>
+        <show_top_x>10</show_top_x>
         <show_total>false</show_total>
         <show_trend>true</show_trend>
         <show_visualization_selector>true</show_visualization_selector>
         <sort_direction>asc</sort_direction>
-        <sort_on>default</sort_on>
+        <sort_on>value</sort_on>
         <subtitle/>
         <sys_class_name>pa_widgets</sys_class_name>
         <sys_created_by>rdfed</sys_created_by>
-        <sys_created_on>2020-08-23 01:51:07</sys_created_on>
+        <sys_created_on>2020-08-23 17:56:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>97c84a292fb610501ba85d492799b6eb</sys_id>
+        <sys_id>22856df92fb650501ba85d492799b616</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>Net Daily Sentiment</sys_name>
+        <sys_name>Sentiment by Feedback Type</sys_name>
         <sys_overrides/>
         <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
         <sys_policy/>
         <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
-        <sys_update_name>pa_widgets_97c84a292fb610501ba85d492799b6eb</sys_update_name>
+        <sys_update_name>pa_widgets_22856df92fb650501ba85d492799b616</sys_update_name>
         <sys_updated_by>rdfed</sys_updated_by>
-        <sys_updated_on>2020-08-23 17:47:47</sys_updated_on>
+        <sys_updated_on>2020-08-23 17:57:00</sys_updated_on>
         <tag/>
         <template>template1</template>
         <treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color>
         <treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color>
-        <type>time</type>
-        <visualization>column</visualization>
+        <type>breakdown</type>
+        <visualization>stacked</visualization>
         <words_in_trendline>5</words_in_trendline>
         <yaxis2_from/>
         <yaxis2_title/>
@@ -117,5 +117,5 @@
         <yaxis_title/>
         <yaxis_to/>
     </pa_widgets>
-    <sys_translated_text action="delete_multiple" query="documentkey=97c84a292fb610501ba85d492799b6eb"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=22856df92fb650501ba85d492799b616"/>
 </record_update>

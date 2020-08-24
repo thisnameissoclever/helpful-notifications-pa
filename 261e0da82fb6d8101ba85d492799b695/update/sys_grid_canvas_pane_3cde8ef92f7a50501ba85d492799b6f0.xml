@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
     <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
         <grid_canvas display_value="PA Email Notification S - New Tab">3d5786a52fb610501ba85d492799b6ba</grid_canvas>
-        <height>8</height>
-        <portal_widget display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_widget>
-        <posx>6</posx>
-        <posy>21</posy>
+        <height>11</height>
+        <portal_widget display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_widget>
+        <posx>3</posx>
+        <posy>0</posy>
         <sys_class_name>sys_grid_canvas_pane</sys_class_name>
         <sys_created_by>rdfed</sys_created_by>
-        <sys_created_on>2020-08-23 01:50:51</sys_created_on>
-        <sys_id>0fc84ea52fb610501ba85d492799b6db</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+        <sys_id>3cde8ef92f7a50501ba85d492799b6f0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>3d5786a52fb610501ba85d492799b6ba</sys_name>
         <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
         <sys_policy/>
         <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
-        <sys_update_name>sys_grid_canvas_pane_0fc84ea52fb610501ba85d492799b6db</sys_update_name>
+        <sys_update_name>sys_grid_canvas_pane_3cde8ef92f7a50501ba85d492799b6f0</sys_update_name>
         <sys_updated_by>rdfed</sys_updated_by>
         <sys_updated_on>2020-08-23 21:02:41</sys_updated_on>
-        <width>6</width>
+        <width>9</width>
     </sys_grid_canvas_pane>
 </record_update>
