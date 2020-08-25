@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_indicator_text_indexes">
+    <pa_m2m_indicator_text_indexes action="INSERT_OR_UPDATE">
+        <indicator display_value="Avg Daily Notification Sentiment">cbd58a252fb610501ba85d492799b696</indicator>
+        <sys_class_name>pa_m2m_indicator_text_indexes</sys_class_name>
+        <sys_created_by>rdfed</sys_created_by>
+        <sys_created_on>2020-08-24 16:44:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abfe124e2f7e90501ba85d492799b668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Avg Daily Notification Sentiment.Feedback.New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
+        <sys_update_name>pa_m2m_indicator_text_indexes_abfe124e2f7e90501ba85d492799b668</sys_update_name>
+        <sys_updated_by>rdfed</sys_updated_by>
+        <sys_updated_on>2020-08-24 16:44:46</sys_updated_on>
+        <text_index_configuration display_value="Feedback.New">0b9e1a0e2f7e90501ba85d492799b613</text_index_configuration>
+    </pa_m2m_indicator_text_indexes>
+</record_update>

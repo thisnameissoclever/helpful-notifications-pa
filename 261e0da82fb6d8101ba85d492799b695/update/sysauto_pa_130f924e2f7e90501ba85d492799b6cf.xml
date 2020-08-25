@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_pa">
+    <sysauto_pa action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <benchmarking>false</benchmarking>
+        <business_calendar/>
+        <collect>text</collect>
+        <condition/>
+        <conditional>false</conditional>
+        <description/>
+        <entered_time/>
+        <kill_job>false</kill_job>
+        <name>Temporary job for collecting text indexes for Feedback.New</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Rob ">c24a81242fb6d8101ba85d492799b670</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period/>
+        <run_start>2020-08-24 16:45:02</run_start>
+        <run_time/>
+        <run_type>once</run_type>
+        <score_fixed_end>20200824</score_fixed_end>
+        <score_fixed_start>20200726</score_fixed_start>
+        <score_operator>fixed</score_operator>
+        <score_relative_end>1</score_relative_end>
+        <score_relative_end_interval>days</score_relative_end_interval>
+        <score_relative_start>1</score_relative_start>
+        <score_relative_start_interval>days</score_relative_start_interval>
+        <sys_class_name>sysauto_pa</sys_class_name>
+        <sys_created_by>rdfed</sys_created_by>
+        <sys_created_on>2020-08-24 16:45:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>130f924e2f7e90501ba85d492799b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Temporary job for collecting text indexes for Feedback.New</sys_name>
+        <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
+        <sys_update_name>sysauto_pa_130f924e2f7e90501ba85d492799b6cf</sys_update_name>
+        <sys_updated_by>rdfed</sys_updated_by>
+        <sys_updated_on>2020-08-24 16:45:02</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_pa>
+    <sys_translated_text action="delete_multiple" query="documentkey=130f924e2f7e90501ba85d492799b6cf"/>
+</record_update>
