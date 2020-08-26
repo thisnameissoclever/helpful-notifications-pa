@@ -52,7 +52,7 @@ undefined</description>
         <role_override>false</role_override>
         <roles>x_13231_helpful_em.helpful_emails_admin,x_13231_helpful_em.helpful_emails_user</roles>
         <score_periods>-1</score_periods>
-        <scores_modified_at>2020-08-25 04:00:18</scores_modified_at>
+        <scores_modified_at>2020-08-26 04:00:19</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>
