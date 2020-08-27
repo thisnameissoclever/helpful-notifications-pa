@@ -50,9 +50,9 @@ undefined</description>
         <related_jobs>0</related_jobs>
         <render_continuous_lines>false</render_continuous_lines>
         <role_override>false</role_override>
-        <roles>x_13231_helpful_em.helpful_emails_admin,x_13231_helpful_em.helpful_emails_user</roles>
+        <roles/>
         <score_periods>-1</score_periods>
-        <scores_modified_at>2020-08-26 04:00:19</scores_modified_at>
+        <scores_modified_at>2020-08-27 04:00:20</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>

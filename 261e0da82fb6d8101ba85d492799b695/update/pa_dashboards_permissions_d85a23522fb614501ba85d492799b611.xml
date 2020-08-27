@@ -5,7 +5,7 @@
         <group/>
         <identity>x_13231_helpful_em.helpful_emails_admin</identity>
         <read>true</read>
-        <role display_value="x_13231_helpful_em.helpful_emails_admin" name="x_13231_helpful_em.helpful_emails_admin">7f815da32fa694101ba85d492799b683</role>
+        <role/>
         <sys_class_name>pa_dashboards_permissions</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-25 16:52:21</sys_created_on>
