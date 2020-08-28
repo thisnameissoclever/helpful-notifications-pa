@@ -2,7 +2,7 @@
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA Email Notification S - New Tab 2">1f9f568e2f7e90501ba85d492799b6c3</canvas_page>
         <name>Comment Analysis</name>
-        <page display_value="PA Comment Analysis">9f9f568e2f7e90501ba85d492799b6c1</page>
+        <page/>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>rdfed</sys_created_by>
         <sys_created_on>2020-08-24 16:47:30</sys_created_on>

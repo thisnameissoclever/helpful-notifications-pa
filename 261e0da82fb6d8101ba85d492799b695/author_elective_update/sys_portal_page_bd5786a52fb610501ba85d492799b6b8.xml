@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-27 11:44:31">
+    <sys_portal_page action="DELETE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>rdfed</sys_created_by>
+        <sys_created_on>2020-08-23 01:44:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd5786a52fb610501ba85d492799b6b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Sentiment Metrics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
+        <sys_update_name>sys_portal_page_bd5786a52fb610501ba85d492799b6b8</sys_update_name>
+        <sys_updated_by>rdfed</sys_updated_by>
+        <sys_updated_on>2020-08-24 16:47:55</sys_updated_on>
+        <title>PA Sentiment Metrics</title>
+        <user/>
+        <view>pa_email_notification_s_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Sentiment by Feedback Type</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                <sys_id>4a852df92fb650501ba85d492799b6a6</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>02852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>06852df92fb650501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>22856df92fb650501ba85d492799b616</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>86852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>8a85213d2fb650501ba85d492799b6e2</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>Sentiment by Feedback Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>c2852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>c685213d2fb650501ba85d492799b6e3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Avg Notification Sentiment</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                <sys_id>4fc84ea52fb610501ba85d492799b6d9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>03c84ea52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>Avg Notification Sentiment</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>43c84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>6ef8caa52fb610501ba85d492799b600</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>4fc84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>8bc84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>c7c84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:51</sys_created_on>
+                        <sys_id>c7c84ea52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Top 5 Worst Performing Notifications</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                <sys_id>7cde8ef92f7a50501ba85d492799b6ee</sys_id>
+                <sys_mod_count>4</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 21:00:03</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>30de8ef92f7a50501ba85d492799b6f0</sys_id>
+                        <sys_mod_count>3</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 21:00:03</sys_updated_on>
+                        <value>Top 5 Worst Performing Notifications</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>70de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:56:26</sys_updated_on>
+                        <value>96de823d2f7a50501ba85d492799b620</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>7cde8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>b8de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>f4de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>f4de8ef92f7a50501ba85d492799b6f0</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:56:26</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Sentiment Score (7d running AVG)</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                <sys_id>8acdc6b92f7a50501ba85d492799b6a5</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 20:55:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>0ecdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>46cdc6b92f7a50501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:02</sys_updated_on>
+                        <value>Sentiment Score (7d running AVG)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:53:13</sys_updated_on>
+                        <value>5bdd4ab92f7a50501ba85d492799b628</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:53:13</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>cecdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>New Notification Feedback</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                <sys_id>af7846a52fb610501ba85d492799b6d9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>2f7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6b7846a52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>0d8806292fb610501ba85d492799b625</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6b7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6f7846a52fb610501ba85d492799b6dc</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>a77846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>ef7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>New Notification Feedback</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Net Daily Sentiment</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                <sys_id>d2c88e652fb610501ba85d492799b639</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>12c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>5ec88e652fb610501ba85d492799b639</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>5ec88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>96c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>Net Daily Sentiment</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>d2c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>d6c88e652fb610501ba85d492799b639</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>97c84a292fb610501ba85d492799b6eb</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</application>
+        <file_path/>
+        <instance_id>86becb17db0d9f004f035d00cf961982</instance_id>
+        <instance_name>dev54393</instance_name>
+        <name>sys_portal_page_bd5786a52fb610501ba85d492799b6b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-27 11:44:31">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>rdfed</sys_created_by>
+        <sys_created_on>2020-08-23 01:44:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bd5786a52fb610501ba85d492799b6b8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Sentiment Metrics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
+        <sys_update_name>sys_portal_page_bd5786a52fb610501ba85d492799b6b8</sys_update_name>
+        <sys_updated_by>rdfed</sys_updated_by>
+        <sys_updated_on>2020-08-24 16:47:55</sys_updated_on>
+        <title>PA Sentiment Metrics</title>
+        <user/>
+        <view>pa_email_notification_s_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Sentiment by Feedback Type</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                <sys_id>4a852df92fb650501ba85d492799b6a6</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>02852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>06852df92fb650501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>22856df92fb650501ba85d492799b616</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>86852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>8a85213d2fb650501ba85d492799b6e2</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>Sentiment by Feedback Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>c2852df92fb650501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:55:15</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 10:55:15">4a852df92fb650501ba85d492799b6a6</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 17:55:15</sys_created_on>
+                        <sys_id>c685213d2fb650501ba85d492799b6e3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 17:56:12</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Avg Notification Sentiment</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                <sys_id>4fc84ea52fb610501ba85d492799b6d9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>03c84ea52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>Avg Notification Sentiment</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>43c84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>6ef8caa52fb610501ba85d492799b600</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>4fc84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>8bc84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:50</sys_created_on>
+                        <sys_id>c7c84ea52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:50</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:50">4fc84ea52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:51</sys_created_on>
+                        <sys_id>c7c84ea52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:53:51</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Top 5 Worst Performing Notifications</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                <sys_id>7cde8ef92f7a50501ba85d492799b6ee</sys_id>
+                <sys_mod_count>4</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 21:00:03</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>30de8ef92f7a50501ba85d492799b6f0</sys_id>
+                        <sys_mod_count>3</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 21:00:03</sys_updated_on>
+                        <value>Top 5 Worst Performing Notifications</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>70de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:56:26</sys_updated_on>
+                        <value>96de823d2f7a50501ba85d492799b620</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>7cde8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>b8de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>f4de8ef92f7a50501ba85d492799b6ef</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:40</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 13:55:40">7cde8ef92f7a50501ba85d492799b6ee</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:55:40</sys_created_on>
+                        <sys_id>f4de8ef92f7a50501ba85d492799b6f0</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:56:26</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Sentiment Score (7d running AVG)</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                <sys_id>8acdc6b92f7a50501ba85d492799b6a5</sys_id>
+                <sys_mod_count>3</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 20:55:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>0ecdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>46cdc6b92f7a50501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:55:02</sys_updated_on>
+                        <value>Sentiment Score (7d running AVG)</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:53:13</sys_updated_on>
+                        <value>5bdd4ab92f7a50501ba85d492799b628</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>82cdc6b92f7a50501ba85d492799b6a8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:53:13</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-23 13:51:07">8acdc6b92f7a50501ba85d492799b6a5</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 20:51:07</sys_created_on>
+                        <sys_id>cecdc6b92f7a50501ba85d492799b6a6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 20:51:07</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>New Notification Feedback</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                <sys_id>af7846a52fb610501ba85d492799b6d9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>2f7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6b7846a52fb610501ba85d492799b6da</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>0d8806292fb610501ba85d492799b625</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6b7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>6f7846a52fb610501ba85d492799b6dc</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>a77846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:49:31</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:49:31">af7846a52fb610501ba85d492799b6d9</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:49:31</sys_created_on>
+                        <sys_id>ef7846a52fb610501ba85d492799b6db</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:30</sys_updated_on>
+                        <value>New Notification Feedback</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+                <summary>Net Daily Sentiment</summary>
+                <sys_created_by>rdfed</sys_created_by>
+                <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                <sys_id>d2c88e652fb610501ba85d492799b639</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>rdfed</sys_updated_by>
+                <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>12c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>5ec88e652fb610501ba85d492799b639</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>5ec88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>96c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>Net Daily Sentiment</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>d2c88e652fb610501ba85d492799b63a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:50:48</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-22 18:50:48">d2c88e652fb610501ba85d492799b639</portal_section>
+                        <sys_created_by>rdfed</sys_created_by>
+                        <sys_created_on>2020-08-23 01:50:48</sys_created_on>
+                        <sys_id>d6c88e652fb610501ba85d492799b639</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>rdfed</sys_updated_by>
+                        <sys_updated_on>2020-08-23 01:51:08</sys_updated_on>
+                        <value>97c84a292fb610501ba85d492799b6eb</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>]]></payload>
+        <payload_hash>-1307660232</payload_hash>
+        <record_name>PA Sentiment Metrics</record_name>
+        <reverted_from/>
+        <source>bb9aef1f2fb258501ba85d492799b653</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 19:28:12</sys_created_on>
+        <sys_id>90ca2b5f2fb258501ba85d492799b6d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174368aae3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 19:28:12</sys_updated_on>
+        <type>Portal Page</type>
+        <update_guid>50ca2b5f18b25850710e66652df7add8</update_guid>
+        <update_guid_history>50ca2b5f18b25850710e66652df7add8:-1307660232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 19:28:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_portal_page">sys_portal_page</sys_db_object>
+        <sys_id>6d39d58950564909a8ec1a4658871ac9</sys_id>
+        <sys_metadata>bd5786a52fb610501ba85d492799b6b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Sentiment Metrics</sys_name>
+        <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
+        <sys_scope_delete display_value="">37e9c5db61644e3bb350aa3d6326ea99</sys_scope_delete>
+        <sys_update_name>sys_portal_page_bd5786a52fb610501ba85d492799b6b8</sys_update_name>
+        <sys_update_version display_value="sys_portal_page_bd5786a52fb610501ba85d492799b6b8">90ca2b5f2fb258501ba85d492799b6d8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 19:28:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

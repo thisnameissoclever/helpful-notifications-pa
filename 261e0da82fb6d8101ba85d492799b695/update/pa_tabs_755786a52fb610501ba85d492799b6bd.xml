@@ -2,7 +2,7 @@
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA Email Notification S - New Tab">3d5786a52fb610501ba85d492799b6ba</canvas_page>
         <name>Sentiment Metrics</name>
-        <page display_value="PA Sentiment Metrics">bd5786a52fb610501ba85d492799b6b8</page>
+        <page/>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>rdfed</sys_created_by>
         <sys_created_on>2020-08-23 01:44:29</sys_created_on>
