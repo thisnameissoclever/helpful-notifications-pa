@@ -7,7 +7,7 @@
         <collect_records>true</collect_records>
         <conditions/>
         <contributor/>
-        <cube display_value="Emails.New">c02193c82f0b10101ba85d492799b6da</cube>
+        <cube display_value="MailReadReceipts.New">c02193c82f0b10101ba85d492799b6da</cube>
         <data_source/>
         <default_aggregate/>
         <default_chart_type>line</default_chart_type>
@@ -20,7 +20,7 @@ Created on Today</description>
         <direction>1</direction>
         <display>false</display>
         <excluded_statistics/>
-        <field>blind_copied</field>
+        <field>sys_created_on</field>
         <forecast_base_periods>2</forecast_base_periods>
         <forecast_base_start>00000000</forecast_base_start>
         <forecast_base_type>1</forecast_base_type>
@@ -42,17 +42,17 @@ Created on Today</description>
         <managed_breakdown/>
         <managed_element/>
         <managing_indicator/>
-        <name>Emails Sent Today</name>
+        <name>EmailSent.New</name>
         <order/>
         <override_periods>false</override_periods>
         <precision>0</precision>
-        <related_breakdowns>0</related_breakdowns>
-        <related_jobs>0</related_jobs>
+        <related_breakdowns>1</related_breakdowns>
+        <related_jobs>2</related_jobs>
         <render_continuous_lines>false</render_continuous_lines>
         <role_override>true</role_override>
         <roles/>
         <score_periods>-1</score_periods>
-        <scores_modified_at>2020-09-01 04:00:13</scores_modified_at>
+        <scores_modified_at>2020-09-14 18:02:08</scores_modified_at>
         <script/>
         <scripted>false</scripted>
         <show_delta>true</show_delta>
@@ -65,17 +65,17 @@ Created on Today</description>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4fb417cc2f0b10101ba85d492799b66d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Emails Sent Today</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>EmailSent.New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Was this email helpful - PA pack" source="x_13231_help_em_pa">261e0da82fb6d8101ba85d492799b695</sys_package>
         <sys_policy/>
         <sys_scope display_value="Was this email helpful - PA pack">261e0da82fb6d8101ba85d492799b695</sys_scope>
         <sys_update_name>pa_indicators_4fb417cc2f0b10101ba85d492799b66d</sys_update_name>
         <sys_updated_by>rdfed</sys_updated_by>
-        <sys_updated_on>2020-08-31 01:52:04</sys_updated_on>
+        <sys_updated_on>2020-09-14 17:42:00</sys_updated_on>
         <type>1</type>
-        <unit/>
+        <unit display_value="#">17b365e2d7320100ba986f14ce6103ad</unit>
         <users/>
         <value_when_nil/>
         <visible_to>2</visible_to>
